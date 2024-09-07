@@ -1,0 +1,14 @@
+# Ignore macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the virtual environment folder
+bin/
+lib/
+include/
+pyvenv.cfg
+share/
+venv/
+etc/
