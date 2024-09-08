@@ -3,6 +3,8 @@
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
 
 # Ignore the virtual environment folder
 bin/
